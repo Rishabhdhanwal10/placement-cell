@@ -10,7 +10,7 @@ Improved the security of the Placement cell web app by using Passportjs and Pass
 - EJS
 - Bootstrap
 
-### 🔗 Hosted link: 
+### 🔗 Hosted link: https://placement-cell-app-bl7o.onrender.com/
 
 ## Functionality 
 - User/Employee signUp and signIn
