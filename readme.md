@@ -49,6 +49,11 @@ npm start
 * passport-local
 
 ## 🖼️ Screenshots
+
+Signup Page
+
+![Screenshot (293)](assets/images/signup-page.png)
+
 Signin Page
 
 ![Screenshot (294)](assets/images/signin-page.png)
