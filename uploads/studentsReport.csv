@@ -1,0 +1,5 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+64f75997386e62dbdd844eeb, Harshita,IGDTUW,harshita@gmail.com,Not placed,90,88,85,2023-09-08,Amazon,On Hold
+64f75997386e62dbdd844eeb, Harshita,IGDTUW,harshita@gmail.com,Not placed,90,88,85,2023-09-11,Microsoft,PASS
+64f759c7386e62dbdd844ef4,Rohan,MAIT,rohan@gmail.com,Not placed,90,88,75,2023-09-08,Amazon,On Hold
+64f759c7386e62dbdd844ef4,Rohan,MAIT,rohan@gmail.com,Not placed,90,88,75,2023-09-11,Microsoft,On Hold

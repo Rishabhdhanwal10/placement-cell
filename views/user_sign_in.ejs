@@ -1,0 +1,31 @@
+
+<!-- adding styles -->
+<link rel="stylesheet" href="/assets/css/signin_or_signup.css">
+
+<!-- signin section -->
+
+<section class="container forms">
+  <div class="form login">
+      <div class="form-content">
+          <header>Login</header>
+          <form action="/create-session" method="POST">
+              <div class="field input-field">
+                  <input type="email" placeholder="Email" id="email" name="email" class="input form-control">
+              </div>
+              <div class="field input-field">
+                  <input type="password" placeholder="Password" id="password" name="password" class="password form-control">
+                  <i class='bx bx-hide eye-icon'></i>
+              </div>
+              <div class="form-link">
+                  <a href="#" class="forgot-pass">Forgot password?</a>
+              </div>
+              <div class="field button-field">
+                  <button type="submit">Login</button>
+              </div>
+          </form>
+          <div class="form-link">
+              <span>Don't have an account? <a href="/sign-up" class="link signup-link">Signup</a></span>
+          </div>
+      </div>
+    </div>
+</section>

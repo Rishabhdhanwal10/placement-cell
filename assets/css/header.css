@@ -1,0 +1,35 @@
+nav {
+    /* background-color: #6610f2; */
+    background-color: white;
+  }
+
+  .navbar{
+    padding: 12px 0px;
+  }
+
+  .placement_cell{
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+
+  .navbar-brand,
+  .nav-link,
+  .profile {
+    color: #296E85;
+  }
+
+  .nav-link:hover {
+    color: aqua;
+  }
+
+  .navbar-brand:hover {
+    color: aqua;
+  }
+
+  .download_icon{
+    margin-left: 6px;
+  }
+
+  .signout_icon{
+    margin-left: 2px;
+  }

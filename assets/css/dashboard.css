@@ -1,0 +1,18 @@
+.student_list{
+    max-width: 1000px;
+    min-height: 400px;
+    max-height: 600px;
+    overflow-y: auto;
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.interviews_list{
+    max-width: 1000px;
+    min-height: 300px;
+    max-height: 600px;
+    overflow-y: auto;
+    background-color: #fff;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
